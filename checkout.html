@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout Produk</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --dark-background: #0D1117;
+            --dark-surface: #161B22;
+            --dark-border: #2B303B;
+            --dark-text: #E6EDF3;
+            --dark-secondary-text: #8B949E;
+            --blue-accent: #58A6FF;
+            --blue-hover: #79C0FF;
+        }
+        body {
+            font-family: 'Nunito', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: var(--dark-background);
+            color: var(--dark-text);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            width: 100%;
+            max-width: 600px;
+            padding: 20px;
+            background-color: var(--dark-surface);
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+            text-align: center;
+        }
+        h1 {
+            color: var(--blue-accent);
+        }
+        .product-info {
+            margin-bottom: 20px;
+            padding: 15px;
+            border: 1px solid var(--dark-border);
+            border-radius: 8px;
+            text-align: left;
+        }
+        .product-info h2 {
+            margin: 0 0 5px;
+        }
+        .product-info p {
+            margin: 0;
+            color: var(--dark-secondary-text);
+        }
+        .product-info .price {
+            font-size: 1.5em;
+            color: var(--dark-text);
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+            text-align: left;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input {
+            width: 100%;
+            padding: 10px;
+            background-color: var(--dark-background);
+            border: 1px solid var(--dark-border);
+            border-radius: 5px;
+            color: var(--dark-text);
+            box-sizing: border-box;
+        }
+        button#buyBtn {
+            width: 100%;
+            padding: 12px;
+            border: none;
+            border-radius: 5px;
+            background-color: var(--blue-accent);
+            color: var(--dark-text);
+            font-size: 1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+        button#buyBtn:hover {
+            background-color: var(--blue-hover);
+        }
+        button#buyBtn:disabled {
+            background-color: #6c757d;
+            cursor: not-allowed;
+        }
+        #productImageContainer {
+            margin-top: 20px;
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+        }
+        #productImage {
+            width: 100%;
+            max-width: 300px;
+            height: auto;
+            border-radius: 8px;
+            aspect-ratio: 1 / 1;
+            object-fit: cover;
+        }
+        .notes-container {
+            text-align: left;
+            padding: 15px;
+            background-color: var(--dark-background);
+            border-radius: 8px;
+            border: 1px solid var(--dark-border);
+            width: 100%;
+            max-width: 300px;
+        }
+        .notes-container h3 {
+            margin-top: 0;
+            color: var(--blue-accent);
+        }
+        .notes-container ol {
+            padding-left: 20px;
+            margin: 0;
+        }
+        .notes-container li {
+            margin-bottom: 10px;
+            line-height: 1.4;
+        }
+        .error-message {
+            color: red;
+            margin-top: 10px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Checkout Produk</h1>
+        <div id="productDetails">
+            </div>
+
+        <form id="checkoutForm">
+            <div class="form-group">
+                <label for="whatsappNumber">Nomor WhatsApp</label>
+                <input type="text" id="whatsappNumber" name="whatsappNumber" placeholder="Masukkan nomor WhatsApp Anda" required>
+            </div>
+            <button id="buyBtn" type="submit"><i class="fas fa-shopping-cart"></i> Buy</button>
+        </form>
+        
+        <div id="productImageContainer">
+            <img id="productImage" src="" alt="Product Image">
+            <div class="notes-container">
+                <h3>Catatan Penting:</h3>
+                <ol>
+                    <li>Scan QRIS Tersebut.</li>
+                    <li>Setelah Pembayaran Terkonfirmasi, Kamu Secara Otomatis Akan Menerima Pesan Dari Bot Yang Akan Dikirimkan Ke Nomor WhatsApp Kamu.</li>
+                    <li>Admin Akan Mengirimkan Data Produk Secara Otomatis Ke Nomor Kamu.</li>
+                </ol>
+            </div>
+        </div>
+        
+        <p class="error-message" id="errorMessage">Produk tidak ditemukan.</p>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', async () => {
+            const urlParams = new URLSearchParams(window.location.search);
+            const productId = urlParams.get('product');
+
+            const productDetails = document.getElementById('productDetails');
+            const errorMessage = document.getElementById('errorMessage');
+            const checkoutForm = document.getElementById('checkoutForm');
+            const productImageContainer = document.getElementById('productImageContainer');
+            const productImage = document.getElementById('productImage');
+            const buyBtn = document.getElementById('buyBtn');
+            const whatsappNumberInput = document.getElementById('whatsappNumber');
+            
+            if (!productId) {
+                productDetails.innerHTML = '';
+                errorMessage.style.display = 'block';
+                checkoutForm.style.display = 'none';
+                return;
+            }
+
+            let productData = null;
+            try {
+                const response = await fetch('data.json');
+                const data = await response.json();
+                
+                // Mengonversi ID string dari URL menjadi angka
+                productData = data.products.find(p => p.id === parseInt(productId));
+
+            } catch (error) {
+                console.error('Gagal memuat data produk:', error);
+            }
+
+            if (productData) {
+                // Tampilkan semua detail produk secara terstruktur
+                productDetails.innerHTML = `
+                    <div class="product-info">
+                        <p>• Produk Name: <b>${productData.name}</b></p>
+                        <p>• Price: <b>Rp${productData.price.toLocaleString('id-ID')}</b></p>
+                        <p>• Description: <b>${productData.description}</b></p>
+                    </div>
+                `;
+                errorMessage.style.display = 'none';
+            } else {
+                productDetails.innerHTML = '';
+                errorMessage.style.display = 'block';
+                checkoutForm.style.display = 'none';
+            }
+
+            // Tambahkan event listener untuk submit form
+            checkoutForm.addEventListener('submit', async (e) => {
+                e.preventDefault(); // Mencegah formulir terkirim dan refresh halaman
+
+                // Nonaktifkan tombol setelah diklik untuk mencegah spam
+                buyBtn.disabled = true;
+
+                const whatsappNumber = whatsappNumberInput.value;
+                const nominal = productData.price;
+                const productName = encodeURIComponent(productData.name);
+                const local_api_url = `/api/deposit?nominal=${nominal}&whatsappNumber=${whatsappNumber}&productName=${productName}`;
+
+                try {
+                    const response = await fetch(local_api_url);
+                    const result = await response.json();
+
+                    if (result.status) {
+                        const qrImageUrl = result.data.qr_image;
+                        productImage.src = qrImageUrl;
+                        productImageContainer.style.display = 'flex';
+                    } else {
+                        alert('Gagal membuat pesanan: ' + (result.message || 'Unknown error'));
+                        buyBtn.disabled = false; // Aktifkan kembali jika ada error
+                    }
+                } catch (error) {
+                    console.error('Terjadi kesalahan saat melakukan request API:', error);
+                    alert('Terjadi kesalahan saat memproses pesanan Anda. Silakan coba lagi.');
+                    buyBtn.disabled = false; // Aktifkan kembali jika ada error
+                }
+            });
+        });
+    </script>
+</body>
+</html>

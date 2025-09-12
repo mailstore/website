@@ -1,0 +1,287 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Desain UI/UX Pro",
+            "price": 150000,
+            "description": "Paket desain UI/UX lengkap untuk profesional.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "uiux"
+        },
+        {
+            "id": 2,
+            "name": "Web Template Modern",
+            "price": 75000,
+            "description": "Template website modern dengan desain minimalis.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "web-template"
+        },
+        {
+            "id": 3,
+            "name": "Audio Stok A",
+            "price": 50000,
+            "description": "Koleksi musik latar untuk video dan presentasi.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "audio-stok"
+        },
+        {
+            "id": 4,
+            "name": "Ebook JavaScript",
+            "price": 45000,
+            "description": "Panduan lengkap belajar JavaScript dari nol.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "ebook-panduan"
+        },
+        {
+            "id": 5,
+            "name": "Mockup HP Realistis",
+            "price": 30000,
+            "description": "Mockup smartphone realistis untuk presentasi aplikasi.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "mockup-produk"
+        },
+        {
+            "id": 6,
+            "name": "Font Premium Sans",
+            "price": 60000,
+            "description": "Koleksi font sans-serif premium.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "font-premium"
+        },
+        {
+            "id": 7,
+            "name": "Desain UI/UX Basic",
+            "price": 80000,
+            "description": "Aset desain UI/UX dasar untuk pemula.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "uiux"
+        },
+        {
+            "id": 8,
+            "name": "Web Template E-commerce",
+            "price": 120000,
+            "description": "Template website e-commerce yang responsif.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "web-template"
+        },
+        {
+            "id": 9,
+            "name": "Audio Stok B",
+            "price": 55000,
+            "description": "Efek suara profesional untuk proyek video.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "audio-stok"
+        },
+        {
+            "id": 10,
+            "name": "Ebook CSS Lengkap",
+            "price": 50000,
+            "description": "Buku digital berisi trik dan panduan CSS.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "ebook-panduan"
+        },
+        {
+            "id": 11,
+            "name": "Mockup Laptop",
+            "price": 40000,
+            "description": "Mockup laptop untuk presentasi website.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "mockup-produk"
+        },
+        {
+            "id": 12,
+            "name": "Font Premium Serif",
+            "price": 65000,
+            "description": "Koleksi font serif eksklusif.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "font-premium"
+        },
+        {
+            "id": 13,
+            "name": "Desain UI/UX Mobile",
+            "price": 95000,
+            "description": "Kit desain UI untuk aplikasi mobile.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "uiux"
+        },
+        {
+            "id": 14,
+            "name": "Web Template Blog",
+            "price": 85000,
+            "description": "Template blog yang ringan dan cepat.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "web-template"
+        },
+        {
+            "id": 15,
+            "name": "Audio Stok C",
+            "price": 48000,
+            "description": "Musik upbeat untuk konten media sosial.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "audio-stok"
+        },
+        {
+            "id": 16,
+            "name": "Ebook Python",
+            "price": 60000,
+            "description": "Panduan praktis untuk bahasa pemrograman Python.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "ebook-panduan"
+        },
+        {
+            "id": 17,
+            "name": "Mockup Brosur",
+            "price": 28000,
+            "description": "Mockup brosur lipat tiga untuk promosi.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "mockup-produk"
+        },
+        {
+            "id": 18,
+            "name": "Font Premium Script",
+            "price": 70000,
+            "description": "Font skrip tulisan tangan untuk desain.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "font-premium"
+        },
+        {
+            "id": 19,
+            "name": "Desain UI/UX Tablet",
+            "price": 110000,
+            "description": "Kit desain UI untuk perangkat tablet.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "uiux"
+        },
+        {
+            "id": 20,
+            "name": "Web Template Landing Page",
+            "price": 90000,
+            "description": "Template landing page yang konversif.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "web-template"
+        },
+        {
+            "id": 21,
+            "name": "Audio Stok D",
+            "price": 65000,
+            "description": "Soundtrack sinematik untuk video.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "audio-stok"
+        },
+        {
+            "id": 22,
+            "name": "Ebook Data Science",
+            "price": 75000,
+            "description": "Pengenalan ke dunia data science.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "ebook-panduan"
+        },
+        {
+            "id": 23,
+            "name": "Mockup T-shirt",
+            "price": 35000,
+            "description": "Mockup kaos untuk desain merchandise.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "mockup-produk"
+        },
+        {
+            "id": 24,
+            "name": "Font Premium Display",
+            "price": 85000,
+            "description": "Font tebal untuk judul dan poster.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "font-premium"
+        },
+        {
+            "id": 25,
+            "name": "Desain UI/UX Minimalist",
+            "price": 90000,
+            "description": "Aset desain UI dengan gaya minimalis.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "uiux"
+        },
+        {
+            "id": 26,
+            "name": "Web Template Portofolio",
+            "price": 100000,
+            "description": "Template website untuk menampilkan portofolio.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "web-template"
+        },
+        {
+            "id": 27,
+            "name": "Audio Stok E",
+            "price": 52000,
+            "description": "Lagu-lagu santai untuk podcast.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "audio-stok"
+        },
+        {
+            "id": 28,
+            "name": "Ebook Full-Stack",
+            "price": 85000,
+            "description": "Panduan pengembangan web full-stack.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "ebook-panduan"
+        },
+        {
+            "id": 29,
+            "name": "Mockup Buku",
+            "price": 25000,
+            "description": "Mockup buku dan majalah yang elegan.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "mockup-produk"
+        },
+        {
+            "id": 30,
+            "name": "Font Premium Dingbats",
+            "price": 55000,
+            "description": "Font khusus dengan karakter grafis.",
+            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "category": "font-premium"
+        }
+    ],
+    "categories": [
+        {
+            "id": "uiux",
+            "name": "Uiux"
+        },
+        {
+            "id": "web-template",
+            "name": "Web Template"
+        },
+        {
+            "id": "audio-stok",
+            "name": "Audio Stok"
+        },
+        {
+            "id": "ebook-panduan",
+            "name": "Ebook Panduan"
+        },
+        {
+            "id": "mockup-produk",
+            "name": "Mockup Produk"
+        },
+        {
+            "id": "font-premium",
+            "name": "Font Premium"
+        }
+    ],
+    "carousel": [
+        {
+            "id": 1,
+            "src": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+            "alt": "Slider 1"
+        },
+        {
+            "id": 2,
+            "src": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+            "alt": "Slider 2"
+        },
+        {
+            "id": 3,
+            "src": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+            "alt": "Slider 3"
+        }
+    ]
+}
