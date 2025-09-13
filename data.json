@@ -2,8 +2,8 @@
     "products": [
         {
             "id": 1,
-            "name": "Desain UI/UX Pro",
-            "price": 150000,
+            "name": "NETFLIX",
+            "price": 1000,
             "description": "Paket desain UI/UX lengkap untuk profesional.",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
             "category": "uiux"
