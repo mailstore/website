@@ -243,11 +243,11 @@
     ],
     "categories": [
         {
-            "id": "1",
+            "id": "ui/ux",
             "name": "Netflix"
         },
         {
-            "id": "disney",
+            "id": "web-templet",
             "name": "Disney"
         },
         {
