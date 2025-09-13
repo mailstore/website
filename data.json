@@ -270,17 +270,17 @@
     "carousel": [
         {
             "id": 1,
-            "src": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+            "src": "https://qu.ax/lafGL.jpg?raw=true",
             "alt": "Slider 1"
         },
         {
             "id": 2,
-            "src": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+            "src": "https://qu.ax/pqNUe.jpg?raw=true",
             "alt": "Slider 2"
         },
         {
             "id": 3,
-            "src": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+            "src": "https://qu.ax/xLcey.jpg?raw=true",
             "alt": "Slider 3"
         }
     ]
