@@ -2,19 +2,19 @@
     "products": [
         {
             "id": 1,
-            "name": "NETFLIX",
-            "price": 1000,
+            "name": "NETFLIX 1U1B",
+            "price": 19000,
             "description": "Paket desain UI/UX lengkap untuk profesional.",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "uiux"
+            "category": "Netflix"
         },
         {
             "id": 2,
-            "name": "Web Template Modern",
-            "price": 75000,
+            "name": "NETFLIX 2U1B",
+            "price": 17000,
             "description": "Template website modern dengan desain minimalis.",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "web-template"
+            "category": "Disney"
         },
         {
             "id": 3,
@@ -243,12 +243,12 @@
     ],
     "categories": [
         {
-            "id": "uiux",
-            "name": "Uiux"
+            "id": "netflix",
+            "name": "Netflix"
         },
         {
-            "id": "web-template",
-            "name": "Web Template"
+            "id": "disney",
+            "name": "Disney"
         },
         {
             "id": "audio-stok",
