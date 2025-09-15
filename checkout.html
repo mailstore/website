@@ -250,7 +250,7 @@
                 } catch (error) {
                     console.error('Terjadi kesalahan saat melakukan request API:', error);
                     alert('Terjadi kesalahan saat memproses pesanan Anda. Silakan coba lagi.');
-                    buyBtn.disabled = false; // Aktifkan kembali jika ada error
+                    buyBtn.disabled = true; // Aktifkan kembali jika ada error
                 }
             });
         });
