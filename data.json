@@ -26,59 +26,59 @@
         },
         {
             "id": 4,
-            "name": "Ebook JavaScript",
-            "price": 45000,
-            "description": "Panduan lengkap belajar JavaScript dari nol.",
+            "name": "Wetv 1b",
+            "price": 10000,
+            "description": "Durasi 27-30day Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "ebook-panduan"
+            "category": "wetv"
         },
         {
             "id": 5,
-            "name": "Mockup HP Realistis",
-            "price": 30000,
-            "description": "Mockup smartphone realistis untuk presentasi aplikasi.",
+            "name": "Wetv 3b",
+            "price": 25000,
+            "description": "Durasi 90day Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "mockup-produk"
+            "category": "wetv"
         },
         {
             "id": 6,
-            "name": "Font Premium Sans",
-            "price": 60000,
-            "description": "Koleksi font sans-serif premium.",
+            "name": "Disney+ 1b",
+            "price": 10000,
+            "description": "Durasi 27-30day Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "font-premium"
+            "category": "disney"
         },
         {
             "id": 7,
-            "name": "Desain UI/UX Basic",
-            "price": 80000,
-            "description": "Aset desain UI/UX dasar untuk pemula.",
+            "name": "Disney 3b",
+            "price": 25000,
+            "description": "Durasi 60day Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
             "category": "uiux"
         },
         {
             "id": 8,
-            "name": "Web Template E-commerce",
-            "price": 120000,
-            "description": "Template website e-commerce yang responsif.",
+            "name": "Disney Privat 1b",
+            "price": 30000,
+            "description": "Plan Premium Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "web-template"
+            "category": "disney"
         },
         {
             "id": 9,
-            "name": "Audio Stok B",
-            "price": 55000,
-            "description": "Efek suara profesional untuk proyek video.",
+            "name": "Capcut 1b",
+            "price": 8000,
+            "description": "Durasi 27-30day Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "audio-stok"
+            "category": "capcut"
         },
         {
             "id": 10,
-            "name": "Ebook CSS Lengkap",
-            "price": 50000,
-            "description": "Buku digital berisi trik dan panduan CSS.",
+            "name": "Capcut 6b",
+            "price": 125000,
+            "description": "Durasi 140day Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "ebook-panduan"
+            "category": "capcut"
         },
         {
             "id": 11,
@@ -90,155 +90,155 @@
         },
         {
             "id": 12,
-            "name": "Font Premium Serif",
-            "price": 65000,
-            "description": "Koleksi font serif eksklusif.",
+            "name": "Bstation 1b",
+            "price": 8000,
+            "description": "Durasi 27-30day Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "font-premium"
+            "category": "bstation"
         },
         {
             "id": 13,
-            "name": "Desain UI/UX Mobile",
-            "price": 95000,
-            "description": "Kit desain UI untuk aplikasi mobile.",
+            "name": "Bstation 3b",
+            "price": 15000,
+            "description": "Durasi 90day Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "uiux"
+            "category": "bstation"
         },
         {
             "id": 14,
-            "name": "Web Template Blog",
-            "price": 85000,
-            "description": "Template blog yang ringan dan cepat.",
+            "name": "Iqiyi 1b",
+            "price": 14000,
+            "description": "Durasi 27-30day Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "web-template"
+            "category": "iqiyi"
         },
         {
             "id": 15,
-            "name": "Audio Stok C",
-            "price": 48000,
-            "description": "Musik upbeat untuk konten media sosial.",
+            "name": "Iqiyi 3b",
+            "price": 16000,
+            "description": "Durasi 90day Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "audio-stok"
+            "category": "iqiyi"
         },
         {
             "id": 16,
-            "name": "Ebook Python",
-            "price": 60000,
-            "description": "Panduan praktis untuk bahasa pemrograman Python.",
+            "name": "Iqiyi 1thn",
+            "price": 21000,
+            "description": "Durasi 1tahun Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "ebook-panduan"
+            "category": "iqiyi"
         },
         {
             "id": 17,
-            "name": "Mockup Brosur",
-            "price": 28000,
-            "description": "Mockup brosur lipat tiga untuk promosi.",
+            "name": "Canva 1b",
+            "price": 2500,
+            "description": "Durasi 30day Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "mockup-produk"
+            "category": "canva"
         },
         {
             "id": 18,
-            "name": "Font Premium Script",
+            "name": "Canva edu 6bln",
             "price": 70000,
-            "description": "Font skrip tulisan tangan untuk desain.",
+            "description": "Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "font-premium"
+            "category": "canva"
         },
         {
             "id": 19,
-            "name": "Desain UI/UX Tablet",
+            "name": "Canva Lifetime",
             "price": 110000,
-            "description": "Kit desain UI untuk perangkat tablet.",
+            "description": "Garansi 6bulan Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "uiux"
+            "category": "canva"
         },
         {
             "id": 20,
-            "name": "Web Template Landing Page",
-            "price": 90000,
-            "description": "Template landing page yang konversif.",
+            "name": "Canva Head 1b",
+            "price": 10000,
+            "description": "Akun Admin/Buyer Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "web-template"
+            "category": "canva"
         },
         {
             "id": 21,
-            "name": "Audio Stok D",
-            "price": 65000,
-            "description": "Soundtrack sinematik untuk video.",
+            "name": "Alight Motion 1thn",
+            "price": 8000,
+            "description": "Durasi 1tahun Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "audio-stok"
+            "category": "alightmotion"
         },
         {
             "id": 22,
-            "name": "Ebook Data Science",
-            "price": 75000,
-            "description": "Pengenalan ke dunia data science.",
+            "name": "Viu Prem 3b",
+            "price": 6000,
+            "description": "Durasi 90day Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "ebook-panduan"
+            "category": "viu"
         },
         {
             "id": 23,
-            "name": "Mockup T-shirt",
-            "price": 35000,
-            "description": "Mockup kaos untuk desain merchandise.",
+            "name": "Viu Prem 1thn",
+            "price": 12000,
+            "description": "Durasi 1tahun Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "mockup-produk"
+            "category": "viu"
         },
         {
             "id": 24,
-            "name": "Font Premium Display",
-            "price": 85000,
-            "description": "Font tebal untuk judul dan poster.",
+            "name": "Youtube 1b",
+            "price": 2500,
+            "description": "Durasi 30day Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "font-premium"
+            "category": "youtube"
         },
         {
             "id": 25,
-            "name": "Desain UI/UX Minimalist",
-            "price": 90000,
-            "description": "Aset desain UI dengan gaya minimalis.",
+            "name": "Youtube 3b",
+            "price": 15000,
+            "description": "Plan Mix Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "uiux"
+            "category": "youtube"
         },
         {
             "id": 26,
-            "name": "Web Template Portofolio",
-            "price": 100000,
-            "description": "Template website untuk menampilkan portofolio.",
+            "name": "Youtube 6b",
+            "price": 80000,
+            "description": "Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "web-template"
+            "category": "youtube"
         },
         {
             "id": 27,
-            "name": "Audio Stok E",
-            "price": 52000,
-            "description": "Lagu-lagu santai untuk podcast.",
+            "name": "Spotify 1b",
+            "price": 10000,
+            "description": "Durasi 30day Garansi 7hari Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
             "category": "audio-stok"
         },
         {
             "id": 28,
-            "name": "Ebook Full-Stack",
-            "price": 85000,
-            "description": "Panduan pengembangan web full-stack.",
+            "name": "Spotify 3b",
+            "price": 25000,
+            "description": "Durasi 90day Garansi 21hari Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "ebook-panduan"
+            "category": "spotify"
         },
         {
             "id": 29,
-            "name": "Mockup Buku",
+            "name": "Vidio 1b all dev",
             "price": 25000,
-            "description": "Mockup buku dan majalah yang elegan.",
+            "description": "Durasi 30day Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "mockup-produk"
+            "category": "vidio"
         },
         {
             "id": 30,
-            "name": "Font Premium Dingbats",
-            "price": 55000,
-            "description": "Font khusus dengan karakter grafis.",
+            "name": "LokLok 1b",
+            "price": 15000,
+            "description": "Durasi 30day Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "font-premium"
+            "category": "loklok"
         }
     ],
     "categories": [
@@ -285,6 +285,10 @@
         {
             "id": "wetv",
             "name": "Wetv"
+        },
+        {
+            "id": "alightmotion",
+            "name": "Alight Motion"
         }
     ],
     "carousel": [
