@@ -289,6 +289,22 @@
         {
             "id": "alightmotion",
             "name": "Alight Motion"
+        },
+        {
+            "id": "viu",
+            "name": "Viu"
+        },
+        {
+            "id": "spotify",
+            "name": "Spotify"
+        },
+        {
+            "id": "vidio",
+            "name": "Vidio"
+        },
+        {
+            "id": "loklok",
+            "name": "LokLok"
         }
     ],
     "carousel": [
