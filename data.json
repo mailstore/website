@@ -247,25 +247,45 @@
             "name": "Netflix"
         },
         {
-            "id": "web-templet",
+            "id": "canva",
+            "name": "Canva Pro"
+        },
+        {
+            "id": "spotify",
+            "name": "Spotify"
+        },
+        {
+            "id": "youtube",
+            "name": "Youtube"
+        },
+        {
+            "id": "disney",
             "name": "Disney"
         },
         {
-            "id": "audio-stok",
-            "name": "Audio Stok"
+            "id": "capcut",
+            "name": "Capcut"
         },
         {
-            "id": "ebook-panduan",
-            "name": "Ebook Panduan"
+            "id": "iqiyi",
+            "name": "Iqiyi"
         },
         {
-            "id": "mockup-produk",
-            "name": "Mockup Produk"
+            "id": "vidio",
+            "name": "Vidio"
         },
         {
-            "id": "font-premium",
-            "name": "Font Premium"
-        }
+            "id": "loklok",
+            "name": "Loklok"
+        },
+        {
+            "id": "bstation",
+            "name": "Bstation"
+        },
+        {
+            "id": "wetv",
+            "name": "Wetv"
+        },
     ],
     "carousel": [
         {
