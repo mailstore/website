@@ -42,7 +42,7 @@
         },
         {
             "id": 6,
-            "name": "Disney+ 1b",
+            "name": "Disney 1b",
             "price": 10000,
             "description": "Durasi 27-30day Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
@@ -54,7 +54,7 @@
             "price": 25000,
             "description": "Durasi 60day Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "uiux"
+            "category": "disney"
         },
         {
             "id": 8,
