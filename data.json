@@ -4,8 +4,8 @@
             "id": 1,
             "name": "NETFLIX 1U1B",
             "price": 19000,
-            "description": "Paket desain UI/UX lengkap untuk profesional.",
-            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "description": "Paket Netflix Premium Full Garansi Proses 1-5menit",
+            "imageUrl": "https://qu.ax/TemJJ.jpg?raw=true",
             "category": "netflix"
         },
         {
@@ -13,7 +13,7 @@
             "name": "NETFLIX 2U1B",
             "price": 17000,
             "description": "Template website modern dengan desain minimalis.",
-            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+            "imageUrl": "https://qu.ax/TemJJ.jpg?raw=true",
             "category": "netflix"
         },
         {
