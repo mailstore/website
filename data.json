@@ -4,7 +4,7 @@
             "id": 1,
             "name": "NETFLIX 1U1B",
             "price": 19000,
-            "description": "Paket Netflix Premium Full Garansi Proses 1-5menit",
+            "description": "Durasi 27-30day Full Garansi Proses 1-5menit",
             "imageUrl": "https://qu.ax/TemJJ.jpg?raw=true",
             "category": "netflix"
         },
@@ -12,17 +12,17 @@
             "id": 2,
             "name": "NETFLIX 2U1B",
             "price": 17000,
-            "description": "Template website modern dengan desain minimalis.",
+            "description": "Durasi 27-30day Full Garansi Proses 1-5menit",
             "imageUrl": "https://qu.ax/TemJJ.jpg?raw=true",
             "category": "netflix"
         },
         {
             "id": 3,
-            "name": "Audio Stok A",
-            "price": 50000,
-            "description": "Koleksi musik latar untuk video dan presentasi.",
-            "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "audio-stok"
+            "name": "NETFLIX PRIVAT",
+            "price": 120000,
+            "description": "Durasi 27-30day Full Garansi Proses 1-5menit",
+            "imageUrl": "https://qu.ax/TemJJ.jpg?raw=true",
+            "category": "netflix"
         },
         {
             "id": 4,
