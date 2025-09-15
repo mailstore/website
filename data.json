@@ -81,12 +81,12 @@
             "category": "capcut"
         },
         {
-            "id": 11,
-            "name": "Mockup Laptop",
-            "price": 40000,
-            "description": "Mockup laptop untuk presentasi website.",
+            "id": 10,
+            "name": "Bstation 1thn",
+            "price": 18000,
+            "description": "Durasi 1tahun Full Garansi Proses 1-5menit",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "mockup-produk"
+            "category": "bstation"
         },
         {
             "id": 12,
