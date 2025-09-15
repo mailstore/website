@@ -73,7 +73,7 @@
             "category": "capcut"
         },
         {
-            "id": 11,
+            "id": 10,
             "name": "Capcut 6b",
             "price": 125000,
             "description": "Durasi 140day Full Garansi Proses 1-5menit",
@@ -81,7 +81,7 @@
             "category": "capcut"
         },
         {
-            "id": 10,
+            "id": 11,
             "name": "Bstation 1thn",
             "price": 18000,
             "description": "Durasi 1tahun Full Garansi Proses 1-5menit",
@@ -139,7 +139,7 @@
         {
             "id": 18,
             "name": "Canva edu 6bln",
-            "price": 70000,
+            "price": 16000,
             "description": "Full Garansi Proses 1-5menit",
             "imageUrl": "https://qu.ax/AEtEN.jpg?raw=true",
             "category": "canva"
@@ -147,7 +147,7 @@
         {
             "id": 19,
             "name": "Canva Lifetime",
-            "price": 110000,
+            "price": 17000,
             "description": "Garansi 6bulan Proses 1-5menit",
             "imageUrl": "https://qu.ax/AEtEN.jpg?raw=true",
             "category": "canva"
