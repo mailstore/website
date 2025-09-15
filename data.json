@@ -6,7 +6,7 @@
             "price": 19000,
             "description": "Paket desain UI/UX lengkap untuk profesional.",
             "imageUrl": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
-            "category": "Netflix"
+            "category": "netflix"
         },
         {
             "id": 2,
@@ -243,7 +243,7 @@
     ],
     "categories": [
         {
-            "id": "ui/ux",
+            "id": "netflix",
             "name": "Netflix"
         },
         {
