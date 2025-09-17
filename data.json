@@ -2,243 +2,243 @@
     "products": [
         {
             "id": 1,
-            "name": "NETFLIX 1U1B",
+            "name": "NETFLIX 1U 1Bulan",
             "price": 19000,
-            "description": "Durasi 27-30day Full Garansi Proses 1-5menit",
+            "description": "SHARING - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/TemJJ.jpg?raw=true",
             "category": "netflix"
         },
         {
             "id": 2,
-            "name": "NETFLIX 2U1B",
+            "name": "NETFLIX 2U 1Bulan",
             "price": 17000,
-            "description": "Durasi 27-30day Full Garansi Proses 1-5menit",
+            "description": "SHARING - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/TemJJ.jpg?raw=true",
             "category": "netflix"
         },
         {
             "id": 3,
-            "name": "NETFLIX PRIVAT",
+            "name": "NETFLIX PRIVAT 1Bulan",
             "price": 120000,
-            "description": "Durasi 27-30day Full Garansi Proses 1-5menit",
+            "description": "PRIVATE - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/TemJJ.jpg?raw=true",
             "category": "netflix"
         },
         {
             "id": 4,
-            "name": "Wetv 1b",
+            "name": "Wetv 1Bulan",
             "price": 10000,
-            "description": "Durasi 27-30day Full Garansi Proses 1-5menit",
+            "description": "SHARING - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/wUzkF.jpg?raw=true",
             "category": "wetv"
         },
         {
             "id": 5,
-            "name": "Wetv 3b",
+            "name": "Wetv 3Bulan",
             "price": 25000,
-            "description": "Durasi 90day Full Garansi Proses 1-5menit",
+            "description": "SHARING - Garansi Full - Durasi 87-90 Hari",
             "imageUrl": "https://qu.ax/wUzkF.jpg?raw=true",
             "category": "wetv"
         },
         {
             "id": 6,
-            "name": "Disney 1b",
+            "name": "Disney 1Bulan",
             "price": 10000,
-            "description": "Durasi 27-30day Full Garansi Proses 1-5menit",
+            "description": "SHARING - Garansi Full - Durasi 30 Hari",
             "imageUrl": "https://qu.ax/MZyme.jpg?raw=true",
             "category": "disney"
         },
         {
             "id": 7,
-            "name": "Disney 3b",
+            "name": "Disney 3Bulan",
             "price": 25000,
-            "description": "Durasi 60day Full Garansi Proses 1-5menit",
+            "description": "SHARING - Garansi Full - Durasi 90 Hari",
             "imageUrl": "https://qu.ax/MZyme.jpg?raw=true",
             "category": "disney"
         },
         {
             "id": 8,
-            "name": "Disney Privat 1b",
+            "name": "Disney Privat 1Bulan",
             "price": 30000,
-            "description": "Plan Premium Full Garansi Proses 1-5menit",
+            "description": "PRIVATE - Garansi Full - Durasi 30 Hari",
             "imageUrl": "https://qu.ax/MZyme.jpg?raw=true",
             "category": "disney"
         },
         {
             "id": 9,
-            "name": "Capcut 1b",
+            "name": "Capcut 7Hari",
             "price": 8000,
-            "description": "Durasi 27-30day Full Garansi Proses 1-5menit",
+            "description": "PRIVATE - Garansi Full - Durasi 7 Hari",
             "imageUrl": "https://qu.ax/qCNzJ.jpg?raw=true",
             "category": "capcut"
         },
         {
             "id": 10,
-            "name": "Capcut 6b",
-            "price": 125000,
-            "description": "Durasi 140day Full Garansi Proses 1-5menit",
+            "name": "Capcut 1Bulan",
+            "price": 10000,
+            "description": "PRIVATE - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/qCNzJ.jpg?raw=true",
             "category": "capcut"
         },
         {
             "id": 11,
-            "name": "Bstation 1thn",
+            "name": "Bstation 1Tahun",
             "price": 18000,
-            "description": "Durasi 1tahun Full Garansi Proses 1-5menit",
+            "description": "SHARING - Garansi Full - Durasi 365 Hari",
             "imageUrl": "https://qu.ax/lOHGd.jpg?raw=true",
             "category": "bstation"
         },
         {
             "id": 12,
-            "name": "Bstation 1b",
+            "name": "Bstation 1Bulan",
             "price": 8000,
-            "description": "Durasi 27-30day Full Garansi Proses 1-5menit",
+            "description": "SHARING - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/lOHGd.jpg?raw=true",
             "category": "bstation"
         },
         {
             "id": 13,
-            "name": "Bstation 3b",
+            "name": "Bstation 3Bulan",
             "price": 15000,
-            "description": "Durasi 90day Full Garansi Proses 1-5menit",
+            "description": "SHARING - Garansi Full - Durasi 90 Hari",
             "imageUrl": "https://qu.ax/lOHGd.jpg?raw=true",
             "category": "bstation"
         },
         {
             "id": 14,
-            "name": "Iqiyi 1b",
+            "name": "Iqiyi 1Bulan",
             "price": 14000,
-            "description": "Durasi 27-30day Full Garansi Proses 1-5menit",
+            "description": "SHARING - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/mnXll.jpg?raw=true",
             "category": "iqiyi"
         },
         {
             "id": 15,
-            "name": "Iqiyi 3b",
+            "name": "Iqiyi 3Bulan",
             "price": 16000,
-            "description": "Durasi 90day Full Garansi Proses 1-5menit",
+            "description": "SHARING - Garansi Full - Durasi 90 Hari",
             "imageUrl": "https://qu.ax/mnXll.jpg?raw=true",
             "category": "iqiyi"
         },
         {
             "id": 16,
-            "name": "Iqiyi 1thn",
+            "name": "Iqiyi 1Tahun",
             "price": 21000,
-            "description": "Durasi 1tahun Full Garansi Proses 1-5menit",
+            "description": "SHARING - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/mnXll.jpg?raw=true",
             "category": "iqiyi"
         },
         {
             "id": 17,
-            "name": "Canva 1b",
+            "name": "Canva 1Bulan",
             "price": 2500,
-            "description": "Durasi 30day Full Garansi Proses 1-5menit",
+            "description": "INVITE - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/AEtEN.jpg?raw=true",
             "category": "canva"
         },
         {
             "id": 18,
-            "name": "Canva edu 6bln",
-            "price": 16000,
-            "description": "Full Garansi Proses 1-5menit",
+            "name": "Canva Edu 6Bulan",
+            "price": 12000,
+            "description": "INVITE - Garansi Full - Durasi 181 Hari",
             "imageUrl": "https://qu.ax/AEtEN.jpg?raw=true",
             "category": "canva"
         },
         {
             "id": 19,
-            "name": "Canva Lifetime",
-            "price": 17000,
-            "description": "Garansi 6bulan Proses 1-5menit",
+            "name": "Canva 1Tahun",
+            "price": 15000,
+            "description": "INVITE - Garansi Full - Durasi 365 Hari",
             "imageUrl": "https://qu.ax/AEtEN.jpg?raw=true",
             "category": "canva"
         },
         {
             "id": 20,
-            "name": "Canva Head 1b",
-            "price": 10000,
-            "description": "Akun Admin/Buyer Full Garansi Proses 1-5menit",
+            "name": "Canva Head 1Bulan",
+            "price": 8000,
+            "description": "OWNER - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/AEtEN.jpg?raw=true",
             "category": "canva"
         },
         {
             "id": 21,
-            "name": "Alight Motion 1thn",
-            "price": 8000,
-            "description": "Durasi 1tahun Full Garansi Proses 1-5menit",
+            "name": "Alight Motion 1Tahun",
+            "price": 7000,
+            "description": "PRIVATE - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/CWaQT.jpg?raw=true",
             "category": "alightmotion"
         },
         {
             "id": 22,
-            "name": "Viu Prem 3b",
+            "name": "Viu Prem 3Bulan",
             "price": 6000,
-            "description": "Durasi 90day Full Garansi Proses 1-5menit",
+            "description": "PRIVATE - Garansi Full - Durasi 90 Hari",
             "imageUrl": "https://qu.ax/dkVVU.jpg?raw=true",
             "category": "viu"
         },
         {
             "id": 23,
-            "name": "Viu Prem 1thn",
+            "name": "Viu Prem 1Tahun",
             "price": 12000,
-            "description": "Durasi 1tahun Full Garansi Proses 1-5menit",
+            "description": "PRIVATE - Garansi Full - Durasi 365 Hari",
             "imageUrl": "https://qu.ax/dkVVU.jpg?raw=true",
             "category": "viu"
         },
         {
             "id": 24,
-            "name": "Youtube 1b",
+            "name": "Youtube 1Bulan",
             "price": 2500,
-            "description": "Durasi 30day Full Garansi Proses 1-5menit",
+            "description": "INVITE LINK - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/Vqbjj.jpg?raw=true",
             "category": "youtube"
         },
         {
             "id": 25,
-            "name": "Youtube 3b",
-            "price": 15000,
-            "description": "Plan Mix Full Garansi Proses 1-5menit",
+            "name": "Youtube 3Bulan",
+            "price": 25000,
+            "description": "AKUN ADMIN - NO Garansi - Durasi 90 Hari",
             "imageUrl": "https://qu.ax/Vqbjj.jpg?raw=true",
             "category": "youtube"
         },
         {
             "id": 26,
-            "name": "Youtube 6b",
+            "name": "Youtube 6Bulan",
             "price": 80000,
-            "description": "Full Garansi Proses 1-5menit",
+            "description": "AKUN ADMIN - Garansi 90Hari - Durasi 181 Hari",
             "imageUrl": "https://qu.ax/Vqbjj.jpg?raw=true",
             "category": "youtube"
         },
         {
             "id": 27,
-            "name": "Spotify 1b",
+            "name": "Spotify 1Bulan",
             "price": 10000,
-            "description": "Durasi 30day Garansi 7hari Proses 1-5menit",
+            "description": "STUDENT - Garansi 7Hari - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/uXGya.jpg?raw=true",
             "category": "spotify"
         },
         {
             "id": 28,
-            "name": "Spotify 3b",
+            "name": "Spotify 3Bulan",
             "price": 25000,
-            "description": "Durasi 90day Garansi 21hari Proses 1-5menit",
+            "description": "STUDENT - Garansi 1Bulan - Durasi 90 Hari",
             "imageUrl": "https://qu.ax/uXGya.jpg?raw=true",
             "category": "spotify"
         },
         {
             "id": 29,
-            "name": "Vidio 1b all dev",
+            "name": "Vidio 1Bulan",
             "price": 25000,
-            "description": "Durasi 30day Full Garansi Proses 1-5menit",
+            "description": "SHARING ALL DEV - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/wCTsW.jpg?raw=true",
             "category": "vidio"
         },
         {
             "id": 30,
-            "name": "LokLok 1b",
+            "name": "Vidio 1Bulan",
             "price": 15000,
-            "description": "Durasi 30day Full Garansi Proses 1-5menit",
+            "description": "SHARING MOBILE - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/aufru.jpg?raw=true",
-            "category": "loklok"
+            "category": "vidio"
         }
     ],
     "categories": [
@@ -301,10 +301,6 @@
         {
             "id": "vidio",
             "name": "Vidio"
-        },
-        {
-            "id": "loklok",
-            "name": "LokLok"
         }
     ],
     "carousel": [
