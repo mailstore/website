@@ -234,9 +234,9 @@
         },
         {
             "id": 30,
-            "name": "Vidio Mobile 1Bulan",
-            "price": 15000,
-            "description": "SHARING MOBILE - Garansi Full - Durasi 26-30 Hari",
+            "name": "Vidio Private 1Bulan",
+            "price": 20000,
+            "description": "PRIVATE MOBILE - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/wCTsW.jpg?raw=true",
             "category": "vidio"
         }
