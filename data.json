@@ -227,17 +227,17 @@
         {
             "id": 29,
             "name": "Vidio 1Bulan",
-            "price": 25000,
+            "price": 22000,
             "description": "SHARING ALL DEV - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/wCTsW.jpg?raw=true",
             "category": "vidio"
         },
         {
             "id": 30,
-            "name": "Vidio 1Bulan",
+            "name": "Vidio Mobile 1Bulan",
             "price": 15000,
             "description": "SHARING MOBILE - Garansi Full - Durasi 26-30 Hari",
-            "imageUrl": "https://qu.ax/aufru.jpg?raw=true",
+            "imageUrl": "https://qu.ax/wCTsW.jpg?raw=true",
             "category": "vidio"
         }
     ],
