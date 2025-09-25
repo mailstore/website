@@ -19,7 +19,7 @@
         {
             "id": 3,
             "name": "NETFLIX PRIVAT 1Bulan",
-            "price": 120000,
+            "price": 125000,
             "description": "PRIVATE - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/TemJJ.jpg?raw=true",
             "category": "streaming"
@@ -27,7 +27,7 @@
         {
             "id": 4,
             "name": "Wetv 1Bulan",
-            "price": 10000,
+            "price": 9000,
             "description": "SHARING - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/wUzkF.jpg?raw=true",
             "category": "streaming"
@@ -35,7 +35,7 @@
         {
             "id": 5,
             "name": "Wetv 3Bulan",
-            "price": 25000,
+            "price": 13000,
             "description": "SHARING - Garansi Full - Durasi 87-90 Hari",
             "imageUrl": "https://qu.ax/wUzkF.jpg?raw=true",
             "category": "streaming"
@@ -58,16 +58,16 @@
         },
         {
             "id": 8,
-            "name": "Disney Privat 1Bulan",
-            "price": 30000,
-            "description": "PRIVATE - Garansi Full - Durasi 30 Hari",
+            "name": "Google Drive",
+            "price": 16000,
+            "description": "300GB - Garansi Full",
             "imageUrl": "https://qu.ax/MZyme.jpg?raw=true",
-            "category": "streaming"
+            "category": "lainnya"
         },
         {
             "id": 9,
             "name": "Capcut 7Hari",
-            "price": 8000,
+            "price": 99999,
             "description": "PRIVATE - Garansi Full - Durasi 7 Hari",
             "imageUrl": "https://qu.ax/qCNzJ.jpg?raw=true",
             "category": "editing"
@@ -75,39 +75,39 @@
         {
             "id": 10,
             "name": "Capcut 1Bulan",
-            "price": 10000,
-            "description": "PRIVATE - Garansi Full - Durasi 26-30 Hari",
+            "price": 7000,
+            "description": "PRIVATE - Garansi 7Hari - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/qCNzJ.jpg?raw=true",
             "category": "editing"
         },
         {
             "id": 11,
-            "name": "Bstation 1Tahun",
-            "price": 18000,
-            "description": "SHARING - Garansi Full - Durasi 365 Hari",
+            "name": "Bstation 1Bulan",
+            "price": 4000,
+            "description": "SHARING - Garansi Full - Durasi 30Hari",
             "imageUrl": "https://qu.ax/lOHGd.jpg?raw=true",
             "category": "streaming"
         },
         {
             "id": 12,
-            "name": "Bstation 1Bulan",
+            "name": "Bstation 3Bulan",
             "price": 8000,
-            "description": "SHARING - Garansi Full - Durasi 26-30 Hari",
+            "description": "SHARING - Garansi Full - Durasi 901Hari",
             "imageUrl": "https://qu.ax/lOHGd.jpg?raw=true",
             "category": "streaming"
         },
         {
             "id": 13,
-            "name": "Bstation 3Bulan",
-            "price": 15000,
-            "description": "SHARING - Garansi Full - Durasi 90 Hari",
+            "name": "Bstation 1Tahun",
+            "price": 12000,
+            "description": "SHARING - Garansi Full - Durasi 12Bulan",
             "imageUrl": "https://qu.ax/lOHGd.jpg?raw=true",
             "category": "streaming"
         },
         {
             "id": 14,
             "name": "Iqiyi 1Bulan",
-            "price": 14000,
+            "price": 7000,
             "description": "SHARING - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/mnXll.jpg?raw=true",
             "category": "streaming"
@@ -115,7 +115,7 @@
         {
             "id": 15,
             "name": "Iqiyi 3Bulan",
-            "price": 16000,
+            "price": 9000,
             "description": "SHARING - Garansi Full - Durasi 90 Hari",
             "imageUrl": "https://qu.ax/mnXll.jpg?raw=true",
             "category": "streaming"
@@ -123,7 +123,7 @@
         {
             "id": 16,
             "name": "Iqiyi 1Tahun",
-            "price": 21000,
+            "price": 14000,
             "description": "SHARING - Garansi Full - Durasi 26-30 Hari",
             "imageUrl": "https://qu.ax/mnXll.jpg?raw=true",
             "category": "streaming"
@@ -139,48 +139,48 @@
         {
             "id": 18,
             "name": "Canva Edu 6Bulan",
-            "price": 12000,
+            "price": 7500,
             "description": "INVITE - Garansi Full - Durasi 181 Hari",
             "imageUrl": "https://qu.ax/AEtEN.jpg?raw=true",
             "category": "editing"
         },
         {
             "id": 19,
-            "name": "Canva 1Tahun",
-            "price": 15000,
-            "description": "INVITE - Garansi Full - Durasi 365 Hari",
+            "name": "Canva Head 2Bulan",
+            "price": 8000,
+            "description": "OWNER - Garansi Full - Durasi 60 Hari",
             "imageUrl": "https://qu.ax/AEtEN.jpg?raw=true",
             "category": "editing"
         },
         {
             "id": 20,
-            "name": "Canva Head 1Bulan",
-            "price": 8000,
-            "description": "OWNER - Garansi Full - Durasi 26-30 Hari",
+            "name": "Alight Motion 6Bulan",
+            "price": 2500,
+            "description": "PRIVATE - Garansi Full - Durasi  6BuLAN",
             "imageUrl": "https://qu.ax/AEtEN.jpg?raw=true",
             "category": "editing"
         },
         {
             "id": 21,
             "name": "Alight Motion 1Tahun",
-            "price": 7000,
-            "description": "PRIVATE - Garansi Full - Durasi 26-30 Hari",
+            "price": 5000,
+            "description": "PRIVATE - Garansi Full - Durasi 12Bulan",
             "imageUrl": "https://qu.ax/CWaQT.jpg?raw=true",
             "category": "editing"
         },
         {
             "id": 22,
-            "name": "Viu Prem 3Bulan",
-            "price": 6000,
-            "description": "PRIVATE - Garansi Full - Durasi 90 Hari",
+            "name": "Gemini AI 1Tahun",
+            "price": 17000,
+            "description": "PRIVATE - Garansi Full - Durasi 365 Hari",
             "imageUrl": "https://qu.ax/dkVVU.jpg?raw=true",
-            "category": "streaming"
+            "category": "lainnya"
         },
         {
             "id": 23,
-            "name": "Viu Prem 1Tahun",
-            "price": 12000,
-            "description": "PRIVATE - Garansi Full - Durasi 365 Hari",
+            "name": "Prime Video 1Bulan",
+            "price": 11000,
+            "description": "PRIVATE - Garansi Full - Durasi 30 Hari",
             "imageUrl": "https://qu.ax/dkVVU.jpg?raw=true",
             "category": "streaming"
         },
@@ -195,16 +195,16 @@
         {
             "id": 25,
             "name": "Youtube 3Bulan",
-            "price": 25000,
-            "description": "AKUN ADMIN - NO Garansi - Durasi 90 Hari",
+            "price": 10000,
+            "description": "PLAN MIX - Garansi Full - Durasi 90 Hari",
             "imageUrl": "https://qu.ax/Vqbjj.jpg?raw=true",
             "category": "lainnya"
         },
         {
             "id": 26,
-            "name": "Youtube 6Bulan",
-            "price": 80000,
-            "description": "AKUN ADMIN - Garansi 90Hari - Durasi 181 Hari",
+            "name": "Zoom 14Hari",
+            "price": 6000,
+            "description": "AKUN ADMIN - Garansi Full - Durasi 14 Hari",
             "imageUrl": "https://qu.ax/Vqbjj.jpg?raw=true",
             "category": "lainnya"
         },
@@ -212,33 +212,33 @@
             "id": 27,
             "name": "Spotify 1Bulan",
             "price": 8000,
-            "description": "STUDENT - Garansi 7Hari - Durasi 26-30 Hari",
+            "description": "STUDENT - Garansi 7Hari - Durasi 30 Hari",
             "imageUrl": "https://qu.ax/uXGya.jpg?raw=true",
             "category": "music"
         },
         {
             "id": 28,
-            "name": "Spotify 3Bulan",
-            "price": 25000,
-            "description": "STUDENT - Garansi 1Bulan - Durasi 90 Hari",
+            "name": "Apple Music 1Bulan",
+            "price": 8000,
+            "description": "ONLY ANDROID - Garansi Full - Durasi 30 Hari",
             "imageUrl": "https://qu.ax/uXGya.jpg?raw=true",
             "category": "music"
         },
         {
             "id": 29,
-            "name": "Vidio 1Bulan",
-            "price": 22000,
-            "description": "SHARING ALL DEV - Garansi Full - Durasi 26-30 Hari",
+            "name": "Apple Music 3Bulan",
+            "price": 14000,
+            "description": "PRIVATE - Garansi Full - Durasi 90 Hari",
             "imageUrl": "https://qu.ax/wCTsW.jpg?raw=true",
-            "category": "streaming"
+            "category": "music"
         },
         {
             "id": 30,
-            "name": "Vidio Private 1Bulan",
-            "price": 20000,
-            "description": "PRIVATE MOBILE - Garansi Full - Durasi 26-30 Hari",
+            "name": "Chat GPT 1Bulan",
+            "price": 19000,
+            "description": "SHARING 8U - Garansi Full - Durasi 30 Hari",
             "imageUrl": "https://qu.ax/wCTsW.jpg?raw=true",
-            "category": "streaming"
+            "category": "lainnya"
         }
     ],
     "categories": [
