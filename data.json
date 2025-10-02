@@ -1,4 +1,4 @@
-{
+  {
     "products": [
         {
             "id": 1,
@@ -173,7 +173,7 @@
             "name": "Gemini AI 1Tahun",
             "price": 17000,
             "description": "PRIVATE - Garansi Full - Durasi 365 Hari",
-            "imageUrl": "https://ibb.co.com/Q1fdxT7?raw=true",
+            "imageUrl": "https://qu.ax/SBPwb.png?raw=true",
             "category": "ai"
         },
         {
@@ -181,7 +181,7 @@
             "name": "Prime Video 1Bulan",
             "price": 11000,
             "description": "PRIVATE - Garansi Full - Durasi 30 Hari",
-            "imageUrl": "https://ibb.co.com/N6WsGK9R?raw=true",
+            "imageUrl": "https://qu.ax/KFJfh.pngR?raw=true",
             "category": "streaming"
         },
         {
@@ -205,7 +205,7 @@
             "name": "Zoom 14Hari",
             "price": 6000,
             "description": "AKUN ADMIN - Garansi Full - Durasi 14 Hari",
-            "imageUrl": "https://ibb.co.com/wFGSkR7j?raw=true",
+            "imageUrl": "https://qu.ax/WPBpU.jpg?raw=true",
             "category": "lainnya"
         },
         {
@@ -221,7 +221,7 @@
             "name": "Apple Music 1Bulan",
             "price": 8500,
             "description": "ONLY ANDROID - Garansi Full - Durasi 30 Hari",
-            "imageUrl": "https://ibb.co.com/ZzqFsxBn?raw=true",
+            "imageUrl": "https://qu.ax/vylgG.png?raw=true",
             "category": "music"
         },
         {
@@ -229,7 +229,7 @@
             "name": "Apple Music 3Bulan",
             "price": 14000,
             "description": "PRIVATE - Garansi Full - Durasi 90 Hari",
-            "imageUrl": "https://ibb.co.com/ZzqFsxBn?raw=true",
+            "imageUrl": "https://qu.ax/vylgG.png?raw=true",
             "category": "music"
         },
         {
@@ -237,7 +237,7 @@
             "name": "Chat GPT 7Hari",
             "price": 11000,
             "description": "SHARING 8U - Garansi Full - Durasi 30 Hari",
-            "imageUrl": "https://ibb.co.com/QvyHRf4G?raw=true",
+            "imageUrl": "https://qu.ax/dRekO.png?raw=true",
             "category": "ai"
         },
         {
@@ -245,7 +245,7 @@
             "name": "Chat GPT 1Bulan",
             "price": 19000,
             "description": "SHARING 8U - Garansi Full - Durasi 30 Hari",
-            "imageUrl": "https://ibb.co.com/QvyHRf4G?raw=true",
+            "imageUrl": "https://qu.ax/dRekO.png?raw=true",
             "category": "ai"
         },
         {
@@ -253,7 +253,7 @@
             "name": "Microsoft 365 1Bulan",
             "price": 7000,
             "description": "SHARING - Garansi Full - Durasi 30 Hari",
-            "imageUrl": "https://ibb.co.com/QvyHRf4G?raw=true",
+            "imageUrl": "https://qu.ax/VEvpa.jpeg?raw=true",
             "category": "lainnya"
         },
         {
@@ -261,7 +261,7 @@
             "name": "Lightroom 1Tahun",
             "price": 10000,
             "description": "SHARING - Garansi Full - Durasi 12Bulan",
-            "imageUrl": "https://ibb.co.com/QvyHRf4G?raw=true",
+            "imageUrl": "https://qu.ax/XZRkJ.png?raw=true",
             "category": "editing"
         },
         {
@@ -269,7 +269,7 @@
             "name": "Piscart 1Bulan",
             "price": 5500,
             "description": "SHARING - Garansi Full - Durasi 30 Hari",
-            "imageUrl": "https://ibb.co.com/QvyHRf4G?raw=true",
+            "imageUrl": "https://qu.ax/JqqHX.jpeg?raw=true",
             "category": "editing"
         },
         {
@@ -277,7 +277,7 @@
             "name": "Piscart Priv 1Bulan",
             "price": 11000,
             "description": "PRIVATE - Garansi Full - Durasi 30 Hari",
-            "imageUrl": "https://ibb.co.com/QvyHRf4G?raw=true",
+            "imageUrl": "https://qu.ax/JqqHX.jpeg?raw=true",
             "category": "editing"
         },
         {
@@ -285,15 +285,15 @@
             "name": "Vidio 1Bulan",
             "price": 15000,
             "description": "MOBILE 2U - Garansi Full - Durasi 30 Hari",
-            "imageUrl": "https://ibb.co.com/QvyHRf4G?raw=true",
+            "imageUrl": "https://qu.ax/fWpfw.webp?raw=true",
             "category": "streaming"
         },
         {
             "id": 37,
             "name": "Wps Pro 1Bulan",
             "price": 8000,
-            "description": "SHARING 8U - Garansi Full - Durasi 30 Hari",
-            "imageUrl": "https://ibb.co.com/QvyHRf4G?raw=true",
+            "description": "SHARING - Garansi Full - Durasi 30 Hari",
+            "imageUrl": "https://qu.ax/GEzfo.png?raw=true",
             "category": "lainnya"
         },
         {
@@ -301,30 +301,30 @@
             "name": "Loklok 1Bulan",
             "price": 14000,
             "description": "SHARING BASIC - Garansi Full - Durasi 30 Hari",
-            "imageUrl": "https://ibb.co.com/QvyHRf4G?raw=true",
+            "imageUrl": "https://qu.ax/ZvjPn.png?raw=true",
             "category": "streaming"
         }
     ],
     "categories": [
         {
             "id": "streaming",
-            "name": "STREAMING"
+            "name": "Streaming"
         },
         {
             "id": "music",
-            "name": "MUSIC"
+            "name": "Music"
         },
         {
             "id": "editing",
-            "name": "EDITING"
+            "name": "Editing"
         },
         {
             "id": "ai",
-            "name": "AI"
+            "name": "Ai"
         },
         {
             "id": "lainnya",
-            "name": "LAINNYA"
+            "name": "Lainnya"
         }
     ],
     "carousel": [
