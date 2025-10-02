@@ -308,23 +308,23 @@
     "categories": [
         {
             "id": "streaming",
-            "name": "Streaming"
+            "name": "STREAMING"
         },
         {
             "id": "music",
-            "name": "Music"
+            "name": "MUSIC"
         },
         {
             "id": "editing",
-            "name": "Editing"
-        },
-        {
-            "id": "lainnya",
-            "name": "Lainnya"
+            "name": "EDITING"
         },
         {
             "id": "ai",
             "name": "AI"
+        },
+        {
+            "id": "lainnya",
+            "name": "LAINNYA"
         }
     ],
     "carousel": [
